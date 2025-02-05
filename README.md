@@ -1,4 +1,4 @@
-# SeongHaNam
+# SeongHa Nam
 ## Sejong University
 ### Dept. of Computer Science and Engineering
 
