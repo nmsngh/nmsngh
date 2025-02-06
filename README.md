@@ -10,4 +10,4 @@
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nmsngh&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nmsngh&layout=compact&theme=dracula)
 
-![Snake animation](https://github.com/nmsngh/nmsngh/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/nmsngh/nmsngh/main/github-contribution-grid-snake.svg)
