@@ -1,4 +1,7 @@
-# SeongHa Nam
+<h1 align="center" style="background-color:#E6E6FA; color:black; padding:10px; border-radius:10px;">
+  SeongHa's GitHub!
+</h1>
+
 ## Sejong University
 ### Dept. of Computer Science and Engineering
 
