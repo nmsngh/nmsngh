@@ -1,6 +1,6 @@
-<h1 align="center" style="background-color:#E6E6FA; color:black; padding:10px; border-radius:10px;">
-  SeongHa's GitHub!
-</h1>
+<p align="center">
+  <img src="https://via.placeholder.com/500x60/E6E6FA/000000?text=SeongHa+Nam" alt="SeongHa Nam">
+</p>
 
 ## Sejong University
 ### Dept. of Computer Science and Engineering
