@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # 매일 자정 실행
+    - cron: "0 0 * * *" # 매일 자정(UTC) 실행
   workflow_dispatch: # 수동 실행 가능
 
 jobs:
@@ -10,19 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # 최신 버전 사용
 
       - name: Generate Snake Animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
-
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: snake-animation
-          path: dist/snake.svg
 
       - name: Commit and Push
         run: |
