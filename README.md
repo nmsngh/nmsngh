@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://via.placeholder.com/500x60/E6E6FA/000000?text=SeongHa+Nam" alt="SeongHa Nam">
-</p>
+<h1 align="center" style="background-color:#4CAF50; color:white; padding:10px; border-radius:10px;">
+  SeongHa Nam
+</h1>
+
 
 ## Sejong University
 ### Dept. of Computer Science and Engineering
