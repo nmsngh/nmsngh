@@ -1,6 +1,6 @@
-<h1 align="center" style="background-color:#4CAF50; color:white; padding:10px; border-radius:10px;">
-  SeongHa Nam
-</h1>
+<p align="center">
+  <img src="https://fakeimg.pl/700x100/333333/FFFFFF/?text=SeongHa%20Nam's%20GitHub&font=Montserrat&font_size=50" alt="SeongHa Nam's GitHub">
+</p>
 
 
 ## Sejong University
