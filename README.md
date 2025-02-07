@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://fakeimg.pl/700x100/333333/FFFFFF/?text=SeongHa%20Nam's%20GitHub&font=Montserrat&font_size=50" alt="SeongHa Nam's GitHub">
+  <img src="https://fakeimg.pl/700x100/333333/FFFFFF/?text=SeongHa's%20GitHub&font=Montserrat&font_size=50" alt="SeongHa's GitHub">
 </p>
 
 
