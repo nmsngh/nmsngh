@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://fakeimg.pl/700x100/333333/FFFFFF/?text=SeongHa's%20GitHub&font=Montserrat&font_size=50" alt="SeongHa's GitHub">
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&text=SeongHa's%20Github&height=200&fontAlignY=40&fontColor=d6ace6)
 
 
 ## Sejong University
