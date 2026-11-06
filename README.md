@@ -10,4 +10,4 @@
 > * **Department :** Computer Science and Information Engineering (CSIE)
 > * **Status :** Exchange Program Student (Sep 2026 ~ Present)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
