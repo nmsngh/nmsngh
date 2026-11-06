@@ -10,4 +10,4 @@
 > * **Department :** Computer Science and Information Engineering (CSIE)
 > * **Status :** Exchange Program Student (Sep 2026 ~ Present)
 
-![snake animation](https://raw.githubusercontent.com/nmsngh/nmsngh/main/github-contribution-grid-snake.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
